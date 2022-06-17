@@ -10,7 +10,7 @@
      "postActions": [
     {
       "populateSchema": {
-        "indexNames": null
+        "indexNames": ["sitecore_core_index"]
       }
     },
     {
